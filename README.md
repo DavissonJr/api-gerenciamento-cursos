@@ -70,4 +70,3 @@ As entidades devem seguir a seguinte estrutura:
 
 ✅ Retornar **status HTTP apropriados** nos endpoints (`200 OK`, `400 Bad Request`, `404 Not Found`).
 
-### Podem utilizar os projetos criados anteriormente como base para configuração do projeto atual, e como base para criação da API.
